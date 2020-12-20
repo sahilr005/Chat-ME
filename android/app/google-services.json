@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "700076274871",
+    "firebase_url": "https://chat-me-d5374.firebaseio.com",
+    "project_id": "chat-me-d5374",
+    "storage_bucket": "chat-me-d5374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700076274871:android:933c1a80fcb2bf2ad44932",
+        "android_client_info": {
+          "package_name": "com.sahil.dkb321.chat_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700076274871-k27u89s29o3qapvo2m1ta28ta7die071.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahil.dkb321.chat_me",
+            "certificate_hash": "5808a01007b64be7c654db7fa9eb413377afff85"
+          }
+        },
+        {
+          "client_id": "700076274871-rpr92l28570dbda02errfq1ta0es1b4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahil.dkb321.chat_me",
+            "certificate_hash": "e5ed5280c34c9129253bdcee9374e947b57a4395"
+          }
+        },
+        {
+          "client_id": "700076274871-vuqh9siaj6mfoolp42dutfbtd3cgo8qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9geBGu8dldChnZHVfeTSj_bdqS8hOT90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700076274871-vuqh9siaj6mfoolp42dutfbtd3cgo8qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
